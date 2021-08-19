@@ -48,7 +48,7 @@ Below is the table containing the performance scores of all our model
 ![scores_plot](readme_images/scores_plot.png)
 
 
-![scores_table](readme_images/scores_table.png)
+![scores_table](readme_images/scores_table.PNG)
 
 
 
@@ -76,23 +76,23 @@ Our final predictor intake either an array or an url link. If it is an array, it
 
 For the url link, when a jpg or png link is provided to the predictor, the image will be downloaded, scaled and the predictions will be returned. A filename argument can be added to the function to save the image by a specific name and have it not be overwrited in the future.
 
-![prediction1](readme_images/prediction1.png)
+![prediction1](readme_images/prediction1.PNG)
 
 Above we can see that our prediction was off by one bin.
 
-![prediction2](readme_images/prediction2.png)
+![prediction2](readme_images/prediction2.PNG)
 
 The correct prediction for an infant got a certainess of 100%.
 
-![prediction3](readme_images/prediction3.png)
+![prediction3](readme_images/prediction3.PNG)
 
 Our model correctly predicted the age of Sir Ian Mckellen.
 
-![prediction4](readme_images/prediction4.png)
+![prediction4](readme_images/prediction4.PNG)
 
 Incorrectly predicted the age of Adam Driver.
 
-![prediction5](readme_images/prediction5.png)
+![prediction5](readme_images/prediction5.PNG)
 
 Correctly predicted the age of Kevin Durant.
 
