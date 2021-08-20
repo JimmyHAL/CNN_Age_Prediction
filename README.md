@@ -11,7 +11,7 @@ My approach for this project is to follow the OSEMN guidlines:
 
 For the age bins, I decided on the following twelfth below. I chose these bins base so that I will have an equal amount of original images for each classes as well as the age ranges when people look the most similar.
 
-1-3 , 4-10 , 11-17 , 18-22 , 23-26 , 27-32 , 33-37 , 38-45 , 46-53 , 54-62 , 63-73 , 74-120
+(1-3) , (4-10) , (11-17) , (18-22) , (23-26) , (27-32) , (33-37) , (38-45) , (46-53) , (54-62) , (63-73) , (74-120)
 
 ### Distribrution of the Data
 
